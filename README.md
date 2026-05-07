@@ -50,4 +50,4 @@ git pull origin main
 ---
 
 ## 👥 실습 참여자 명단
-- [실습 가이드 작성자] Antigravity
+- [실습 가이드 작성자] 양진모

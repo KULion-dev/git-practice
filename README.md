@@ -9,8 +9,11 @@
 
 모든 과정은 터미널(Terminal) 또는 Git Bash에서 진행합니다.
 
+### 0 레포지토리 Fork
+가장 먼저 github에서 이 레포지토리를 Fork해서 가져옵니다.
+
 ### 1️⃣ 레포지토리 클론 (Clone)
-가장 먼저 원격 저장소의 코드를 내 컴퓨터로 가져옵니다.
+원격 저장소의 코드를 내 컴퓨터로 가져옵니다.
 ```bash
 git clone https://github.com/KULion-dev/git-practice.git
 cd git-practice
@@ -23,9 +26,8 @@ cd git-practice
 git checkout -b [본인이름]
 ```
 
-### 3️⃣ README.md 수정 (Edit)
-`README.md` 파일 하단의 **실습 참여자 명단**에 본인의 이름을 추가합니다.
-- 예시: `- [본인이름]`
+### 3️⃣ [본인이름].md 생성 (Create)
+`[본인이름].md` 파일을 생성해서 간단한 자기소개를 자유롭게 추가합니다.
 
 ### 4️⃣ 변경 사항 커밋 및 푸시 (Commit & Push)
 작업한 내용을 저장하고 GitHub 서버로 올립니다.

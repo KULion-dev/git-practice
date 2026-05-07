@@ -30,7 +30,7 @@ git checkout -b [본인이름]
 ### 4️⃣ 변경 사항 커밋 및 푸시 (Commit & Push)
 작업한 내용을 저장하고 GitHub 서버로 올립니다.
 ```bash
-git add README.md
+git add .
 git commit -m "feat: [본인이름] 참여 완료"
 git push origin [본인이름]
 ```
